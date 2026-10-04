@@ -1,4 +1,12 @@
 //1c) Methods:
+
+//Write a Java program to calculate the total water consumption of a household using a method.
+
+//Create the following method:
+
+//calculateTotal(int morningUsage, int eveningUsage)
+//The method should return the total water consumption. Read the morning and evening water usage from the user, call the method, and display the total consumption.
+
 import java.util.Scanner;
 
 class Method1c {
